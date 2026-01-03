@@ -104,23 +104,6 @@ A multi‑stack voting app:
 - Add projects to your **resume/portfolio**  
 
 ---
-
-## 📌 Notes
-- Screenshots can be added with Markdown:  
-  ```markdown
-  ![Project Screenshot](images/project1.png)
-  ```
-- Collapsible sections can be added with `<details>` tags:  
-  ```markdown
-  <details>
-  <summary>Day 1: Cloud Concepts</summary>
-
-  - What is Cloud?
-  - Public vs Private vs Hybrid
-  - Vocabulary: Virtualization, VM, API, Regions, Scalability...
-  </details>
-  ```
-
 ---
 
 ✨ Happy Learning & Building with Azure!
