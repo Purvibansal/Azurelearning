@@ -108,5 +108,3 @@ A multi‑stack voting app:
 
 ✨ Happy Learning & Building with Azure!
 ```
-
-Would you like me to also **add badges** (like GitHub stars, license, LinkedIn profile link) so your README looks even more professional?
